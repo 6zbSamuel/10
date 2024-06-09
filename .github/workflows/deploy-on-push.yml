@@ -25,7 +25,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: samuel/15930164338:latest
+          tags: samuel20222105/15930164338:latest
       - name: Copy file via SSH password
         uses: appleboy/scp-action@v0.1.4
         with:
