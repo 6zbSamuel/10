@@ -1,6 +1,6 @@
 name: Deploy docker ci basic application
 
-on:
+'on':
  push:
     branches:
       - main
